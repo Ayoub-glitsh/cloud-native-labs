@@ -55,7 +55,7 @@
 | **Kubernetes (Upcoming)** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="30"/> | Orchestration |
     
   
-  ---
+---
     
 ## 📂 Project Structure
     
