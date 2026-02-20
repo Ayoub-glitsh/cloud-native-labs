@@ -10,18 +10,18 @@
     
   This repository documents my learning journey in:
     
-    - Backend Development (Node.js, Express)
-    - REST API Design
-    - Docker & Containerization
-    - Kubernetes
-    - DevOps Practices
-    - Cloud Engineering Fundamentals
+   - Backend Development (Node.js, Express)
+   - REST API Design
+   - Docker & Containerization
+   - Kubernetes
+   - DevOps Practices
+   - Cloud Engineering Fundamentals
     
-    The goal is to build practical, real-world skills in modern cloud-native development.
+   The goal is to build practical, real-world skills in modern cloud-native development.
     
-    ---
+   ---
     
-    ## 📂 Project Structure
+  ## 📂 Project Structure
     
     
 
