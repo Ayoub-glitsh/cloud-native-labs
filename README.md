@@ -39,12 +39,12 @@ cloud-native-labs/
 └── README.md
 
     
-    ---
+  ---
     
-    ## 🚀 Current Projects
+  ## 🚀 Current Projects
     
-    ### 🔹 TP Node Express API
-    A REST API built with Node.js and Express.
+  ### 🔹 TP Node Express API
+   A REST API built with Node.js and Express.
     Features:
     - GET all products
     - GET product by ID
@@ -52,43 +52,43 @@ cloud-native-labs/
     - PUT update product
     - DELETE product
     
-    ---
+   ---
     
-    ## 🛠 Technologies Used
+   ## 🛠 Technologies Used
     
-    - Node.js
-    - Express.js
-    - Postman
-    - Git & GitHub
-    - (Upcoming) Docker
-    - (Upcoming) Kubernetes
+   - Node.js
+   - Express.js
+   - Postman
+   - Git & GitHub
+   - (Upcoming) Docker
+   - (Upcoming) Kubernetes
     
-    ---
+   ---
     
-    ## 🎯 Learning Objective
+   ## 🎯 Learning Objective
     
-    To develop strong cloud-native backend skills and understand how modern applications are built, containerized, and deployed in cloud environments.
+   To develop strong cloud-native backend skills and understand how modern applications are built, containerized, and deployed in cloud environments.
     
-    ---
+   ---
     
-    ## 👨‍💻 Author
+   ## 👨‍💻 Author
     
-    **Ayoub Aguezar**  
-    Cloud & Backend Enthusiast  
+   **Ayoub Aguezar**  
+   Cloud & Backend Enthusiast  
     
-    ---
+   ---
     
-    ## 📈 Future Improvements
+   ## 📈 Future Improvements
     
-    - Add MongoDB integration
-    - Containerize the API using Docker
-    - Deploy with Kubernetes
-    - CI/CD pipeline integration
-    - Cloud deployment (AWS / Azure / GCP)
+   - Add MongoDB integration
+   - Containerize the API using Docker
+   - Deploy with Kubernetes
+   - CI/CD pipeline integration
+   - Cloud deployment (AWS / Azure / GCP)
     
-    ---
+   ---
     
-    ⭐ If you find this project interesting, feel free to explore and connect!
+   ⭐ If you find this project interesting, feel free to explore and connect!
     
 
 * * *
