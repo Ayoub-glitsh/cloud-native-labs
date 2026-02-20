@@ -28,13 +28,9 @@
 cloud-native-labs/  
 │  
 ├── tp-node-express-api/  
-│ ├── index.js  
-│ ├── package.json  
-│ └── README.md  
-│  
-├── tp-docker/  
-│  
-├── tp-kubernetes/  
+│   
+├── ..../  
+│  ....  
 │  
 └── README.md
 ```
