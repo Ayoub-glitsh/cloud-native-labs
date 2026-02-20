@@ -24,7 +24,7 @@
   ## 📂 Project Structure
     
     
-
+```
 cloud-native-labs/  
 │  
 ├── tp-node-express-api/  
@@ -37,7 +37,7 @@ cloud-native-labs/
 ├── tp-kubernetes/  
 │  
 └── README.md
-
+```
     
   ---
     
@@ -91,22 +91,5 @@ cloud-native-labs/
    ⭐ If you find this project interesting, feel free to explore and connect!
     
 
-* * *
-
-💎 Si tu veux le rendre encore plus professionnel
-=================================================
-
-Je peux ajouter :
-
-*   Badges (Node version, license, status)
-    
-*   GitHub stats
-    
-*   Project roadmap
-    
-*   DevOps-ready structure
-    
-*   Deployment instructions
     
 
-Tu veux qu’on le transforme en README niveau ingénieur ? 🚀
