@@ -39,7 +39,10 @@
   - Delete (CRUD)
     
 ---
-    
+
+
+
+
 ## 🛠 Tech Stack
 
 | Technology | Icon | Purpose |
@@ -51,24 +54,7 @@
 | **Docker (Upcoming)** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30"/> | Containerization |
 | **Kubernetes (Upcoming)** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="30"/> | Orchestration |
     
-    
-
-    
-    
-
-       
-    
-
-       
-    
-
-       
-    
-
-    
-    
-
-    
+  
   ---
     
 ## 📂 Project Structure
