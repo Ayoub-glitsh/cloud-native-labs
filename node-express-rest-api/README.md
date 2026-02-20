@@ -40,7 +40,16 @@
     
 ---
     
-   ## 🛠 Tech Stack
+## 🛠 Tech Stack
+
+| Technology | Icon | Purpose |
+|------------|------|----------|
+| **Node.js** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30"/> | Backend Runtime |
+| **Express.js** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30"/> | Web Framework |
+| **Postman** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="30"/> | API Testing |
+| **Git** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/> | Version Control |
+| **Docker (Upcoming)** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30"/> | Containerization |
+| **Kubernetes (Upcoming)** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="30"/> | Orchestration |
     
     
 
