@@ -1,32 +1,29 @@
 
 
-    # ☁️ Cloud Native Labs
+# ☁️ Cloud Native Labs
     
-    ![Node.js](https://img.shields.io/badge/Node.js-18+-green)
-    ![Express](https://img.shields.io/badge/Express.js-Backend-blue)
-    ![Status](https://img.shields.io/badge/Status-Active-success)
-    ![License](https://img.shields.io/badge/License-MIT-yellow)
+![Node.js](https://img.shields.io/badge/Node.js-18+-green)![Express](https://img.shields.io/badge/Express.js-Backend-blue)![Status](https://img.shields.io/badge/Status-Active-success)![License](https://img.shields.io/badge/License-MIT-yellow)
     
-    > A collection of hands-on projects focused on Cloud Native development, backend engineering, and DevOps practices.
+> A collection of hands-on projects focused on Cloud Native development, backend engineering, and DevOps practices.
     
-    ---
+---
     
-    ## 📌 Overview
+## 📌 Overview
     
-    **Cloud Native Labs** documents my practical learning journey in:
+**Cloud Native Labs** documents my practical learning journey in:
     
-    - Backend API Development
-    - RESTful Services
-    - Containerization with Docker
-    - Kubernetes Orchestration
-    - DevOps & CI/CD Fundamentals
-    - Cloud Deployment Architecture
+- Backend API Development
+- RESTful Services
+- Containerization with Docker
+- Kubernetes Orchestration
+- DevOps & CI/CD Fundamentals
+- Cloud Deployment Architecture
     
-    The objective is to build production-ready backend systems using modern cloud-native technologies.
+The objective is to build production-ready backend systems using modern cloud-native technologies.
     
-    ---
+---
     
-    ## 📂 Repository Structure
+## 📂 Repository Structure
     
     
 
@@ -42,29 +39,29 @@ cloud-native-labs/
 └── README.md
 
     
-    ---
+---
     
-    ## 🚀 Current Project
+## 🚀 Current Project
     
-    ### 🔹 TP Node Express API
+### 🔹 TP Node Express API
     
-    A REST API built with **Node.js & Express** implementing full CRUD operations.
+A REST API built with **Node.js & Express** implementing full CRUD operations.
     
-    ### Features
+### Features
     
-    - GET all products
-    - GET product by ID
-    - POST new product
-    - PUT update product
-    - DELETE product
-    - JSON request handling
-    - Status code management
+- GET all products
+- GET product by ID
+- POST new product
+- PUT update product
+- DELETE product
+- JSON request handling
+- Status code management
     
-    ---
+---
     
-    ## 🛠 Tech Stack
+## 🛠 Tech Stack
     
-    | Technology | Purpose |
+| Technology | Purpose |
     |------------|----------|
     | Node.js | Backend Runtime |
     | Express.js | Web Framework |
@@ -73,16 +70,16 @@ cloud-native-labs/
     | Docker (Upcoming) | Containerization |
     | Kubernetes (Upcoming) | Orchestration |
     
-    ---
+---
     
-    ## ⚙️ Installation & Run
+## ⚙️ Installation & Run
     
-    ### 1️⃣ Clone Repository
+### 1️⃣ Clone Repository
     
-    ```bash
+```bash
     git clone https://github.com/YOUR_USERNAME/cloud-native-labs.git
     cd cloud-native-labs/tp-node-express-api
-    
+```    
 
 ### 2️⃣ Install Dependencies
 
@@ -134,34 +131,23 @@ Body (JSON):
 ----------
 
 *    Integrate MongoDB database
-    
 *    Implement MVC architecture
-    
 *    Add Authentication (JWT)
-    
 *    Dockerize the API
-    
 *    Deploy with Kubernetes
-    
 *    Add CI/CD Pipeline
-    
 *    Deploy to Cloud (AWS / Azure / GCP)
-    
-
+  
 * * *
 
 🎯 Learning Goals
 -----------------
 
 *   Build scalable backend systems
-    
 *   Understand containerized architectures
-    
 *   Master cloud-native deployment workflows
-    
 *   Apply DevOps best practices
     
-
 * * *
 
 👨‍💻 Author
@@ -169,7 +155,7 @@ Body (JSON):
 
 **Ayoub Aguezar**  
 Backend & Cloud Engineering Enthusiast  
-Morocco 🇲🇦
+Morocco
 
 * * *
 
