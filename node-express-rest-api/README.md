@@ -186,7 +186,7 @@ Body (JSON):
 
 **Ayoub Aguezar**  
 Backend & Cloud Enthusiast  
-Morocco 🇲🇦
+Morocco 
 
 * * *
 
