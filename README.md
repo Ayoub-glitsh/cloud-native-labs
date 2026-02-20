@@ -75,7 +75,6 @@ A REST API built with **Node.js & Express** implementing full CRUD operations.
     
 ---
     
-## 🛠 Tech Stack
     
 ## 🛠 Tech Stack
 
