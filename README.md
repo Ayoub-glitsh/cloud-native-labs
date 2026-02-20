@@ -61,14 +61,16 @@ A REST API built with **Node.js & Express** implementing full CRUD operations.
     
 ## 🛠 Tech Stack
     
+## 🛠 Tech Stack
+
 | Technology | Purpose |
-    |------------|----------|
-    | Node.js | Backend Runtime |
-    | Express.js | Web Framework |
-    | Postman | API Testing |
-    | Git | Version Control |
-    | Docker (Upcoming) | Containerization |
-    | Kubernetes (Upcoming) | Orchestration |
+|------------|----------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20"/> **Node.js** | Backend Runtime |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="20"/> **Express.js** | Web Framework |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="20"/> **Postman** | API Testing |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20"/> **Git** | Version Control |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20"/> **Docker (Upcoming)** | Containerization |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="20"/> **Kubernetes (Upcoming)** | Orchestration |
     
 ---
     
