@@ -45,18 +45,15 @@ The objective is to build production-ready backend systems using modern cloud-na
 ## 📂 Repository Structure
     
     
-
+```bash
 cloud-native-labs/  
 │  
 ├── tp-node-express-api/  
-│ ├── index.js  
-│ ├── package.json  
-│ └── README.md  
 │  
-├── tp-docker/  
-├── tp-kubernetes/  
+│ .... 
+│ 
 └── README.md
-
+```
     
 ---
     
