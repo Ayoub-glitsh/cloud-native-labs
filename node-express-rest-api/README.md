@@ -45,19 +45,18 @@
     
 
     
-    ---
+  ---
     
-    ## 📂 Project Structure
+## 📂 Project Structure
     
     
-
+```bash
 node-express-rest-api/  
-│  
-├── index.js  
-├── package.json  
-├── package-lock.json  
+├── demo01/
+├── demo02/ 
+├── test.js 
 └── README.md
-
+```
     
     ---
     
