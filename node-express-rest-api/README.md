@@ -84,7 +84,7 @@ node-express-rest-api/
   ### 1️⃣ Clone the Repository
     
   ```bash
-  git clone https://github.com/Ayoub-glitsh/cloud-native-labs/tree/main/node-express-rest-api.git
+  git clone https://github.com/YOUR-USERNAME/cloud-native-labs/tree/main/node-express-rest-api.git
   cd node-express-rest-api
   ```  
 
