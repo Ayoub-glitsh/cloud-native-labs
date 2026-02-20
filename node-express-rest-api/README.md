@@ -3,6 +3,21 @@
 </div>
 
 
+<br/>
+
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="60"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/>
+
+</div>
+
 
 # 🚀 Node Express REST API
   ![Node.js](https://img.shields.io/badge/Node.js-18+-green)![Express](https://img.shields.io/badge/Express.js-Backend-blue)![REST API](https://img.shields.io/badge/API-REST-orange)![License](https://img.shields.io/badge/License-MIT-yellow)
