@@ -1,91 +1,181 @@
- # ☁️ Cloud Native Labs
+
+
+    # ☁️ Cloud Native Labs
     
-  Welcome to **Cloud Native Labs** 🚀  
+    ![Node.js](https://img.shields.io/badge/Node.js-18+-green)
+    ![Express](https://img.shields.io/badge/Express.js-Backend-blue)
+    ![Status](https://img.shields.io/badge/Status-Active-success)
+    ![License](https://img.shields.io/badge/License-MIT-yellow)
     
-  This repository contains my hands-on projects and practical work related to Cloud Native technologies and backend development.
+    > A collection of hands-on projects focused on Cloud Native development, backend engineering, and DevOps practices.
     
-  ---
+    ---
     
-  ## 📌 About This Repository
+    ## 📌 Overview
     
-  This repository documents my learning journey in:
+    **Cloud Native Labs** documents my practical learning journey in:
     
-   - Backend Development (Node.js, Express)
-   - REST API Design
-   - Docker & Containerization
-   - Kubernetes
-   - DevOps Practices
-   - Cloud Engineering Fundamentals
+    - Backend API Development
+    - RESTful Services
+    - Containerization with Docker
+    - Kubernetes Orchestration
+    - DevOps & CI/CD Fundamentals
+    - Cloud Deployment Architecture
     
-   The goal is to build practical, real-world skills in modern cloud-native development.
+    The objective is to build production-ready backend systems using modern cloud-native technologies.
     
-   ---
+    ---
     
-  ## 📂 Project Structure
+    ## 📂 Repository Structure
     
     
-```
+
 cloud-native-labs/  
 │  
 ├── tp-node-express-api/  
-│   
-├── ..../  
-│  ....  
+│ ├── index.js  
+│ ├── package.json  
+│ └── README.md  
 │  
+├── tp-docker/  
+├── tp-kubernetes/  
 └── README.md
-```
+
     
-  ---
+    ---
     
-  ## 🚀 Current Projects
+    ## 🚀 Current Project
     
-  ### 🔹 TP Node Express API
-   A REST API built with Node.js and Express.
-    Features:
+    ### 🔹 TP Node Express API
+    
+    A REST API built with **Node.js & Express** implementing full CRUD operations.
+    
+    ### Features
+    
     - GET all products
     - GET product by ID
     - POST new product
     - PUT update product
     - DELETE product
+    - JSON request handling
+    - Status code management
     
-   ---
+    ---
     
-   ## 🛠 Technologies Used
+    ## 🛠 Tech Stack
     
-   - Node.js
-   - Express.js
-   - Postman
-   - Git & GitHub
-   - (Upcoming) Docker
-   - (Upcoming) Kubernetes
+    | Technology | Purpose |
+    |------------|----------|
+    | Node.js | Backend Runtime |
+    | Express.js | Web Framework |
+    | Postman | API Testing |
+    | Git | Version Control |
+    | Docker (Upcoming) | Containerization |
+    | Kubernetes (Upcoming) | Orchestration |
     
-   ---
+    ---
     
-   ## 🎯 Learning Objective
+    ## ⚙️ Installation & Run
     
-   To develop strong cloud-native backend skills and understand how modern applications are built, containerized, and deployed in cloud environments.
+    ### 1️⃣ Clone Repository
     
-   ---
-    
-   ## 👨‍💻 Author
-    
-   **Ayoub Aguezar**  
-   Cloud & Backend Enthusiast  
-    
-   ---
-    
-   ## 📈 Future Improvements
-    
-   - Add MongoDB integration
-   - Containerize the API using Docker
-   - Deploy with Kubernetes
-   - CI/CD pipeline integration
-   - Cloud deployment (AWS / Azure / GCP)
-    
-   ---
-    
-   ⭐ If you find this project interesting, feel free to explore and connect!
+    ```bash
+    git clone https://github.com/YOUR_USERNAME/cloud-native-labs.git
+    cd cloud-native-labs/tp-node-express-api
     
 
+### 2️⃣ Install Dependencies
+
+    npm install
     
 
+### 3️⃣ Run Server
+
+    nodemon index.js
+    
+
+Server will start at:
+
+    http://localhost:5050
+    
+
+* * *
+
+🧪 API Testing (Postman)
+------------------------
+
+### GET All Products
+
+    GET http://localhost:5050/
+    
+
+### GET Product By ID
+
+    GET http://localhost:5050/products/11
+    
+
+### POST New Product
+
+    POST http://localhost:5050/products
+    
+
+Body (JSON):
+
+    {
+      "designation": "MacBook Pro",
+      "prix": 15000,
+      "categorie": "Ordinateur"
+    }
+    
+
+* * *
+
+📈 Roadmap
+----------
+
+*    Integrate MongoDB database
+    
+*    Implement MVC architecture
+    
+*    Add Authentication (JWT)
+    
+*    Dockerize the API
+    
+*    Deploy with Kubernetes
+    
+*    Add CI/CD Pipeline
+    
+*    Deploy to Cloud (AWS / Azure / GCP)
+    
+
+* * *
+
+🎯 Learning Goals
+-----------------
+
+*   Build scalable backend systems
+    
+*   Understand containerized architectures
+    
+*   Master cloud-native deployment workflows
+    
+*   Apply DevOps best practices
+    
+
+* * *
+
+👨‍💻 Author
+------------
+
+**Ayoub Aguezar**  
+Backend & Cloud Engineering Enthusiast  
+Morocco 🇲🇦
+
+* * *
+
+📜 License
+----------
+
+This project is licensed under the MIT License.
+
+    
