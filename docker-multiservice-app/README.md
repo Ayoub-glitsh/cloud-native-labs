@@ -293,9 +293,3 @@ Full-Stack Developer | DevOps Enthusiast
 Morocco
 * * *
 
-*   📊 Un diagramme plus avancé style microservices
-    
-*   🚀 Une section “Future Improvements” pour montrer vision ingénieur
-    
-
-Dis-moi 👌
