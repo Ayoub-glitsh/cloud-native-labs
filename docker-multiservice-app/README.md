@@ -172,24 +172,90 @@ Flask App
 
 🛠 Tech Stack
 -------------
+<div align="center">
 
-*   Docker
-    
-*   Docker Compose
-    
-*   Node.js 18
-    
-*   Express 4
-    
-*   Python 3.11
-    
-*   Flask 2.3
-    
-*   MySQL 8
-    
-*   Apache + PHP 8.2
-    
-*   phpMyAdmin
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Technology</th>
+    <th>Icon</th>
+  </tr>
+
+  <tr>
+    <td align="center">Containerization</td>
+    <td align="center">Docker</td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">Orchestration</td>
+    <td align="center">Docker Compose</td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">Backend</td>
+    <td align="center">Node.js</td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">Backend Framework</td>
+    <td align="center">Express.js</td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">Backend</td>
+    <td align="center">Python</td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">Backend Framework</td>
+    <td align="center">Flask</td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">Database</td>
+    <td align="center">MySQL</td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">Web Server</td>
+    <td align="center">Apache</td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">Database Admin</td>
+    <td align="center">phpMyAdmin</td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
+    </td>
+  </tr>
+
+</table>
+
+</div>
     
 
 * * *
