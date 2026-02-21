@@ -1,5 +1,22 @@
 
 
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" alt="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" alt="Node.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" alt="Express"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" alt="Flask"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="50" alt="Apache"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" alt="PHP"/>
+
+</div>
+
+
+
+
+
 🐳 Docker Multi-Service Web Stack
 =================================
 ![Docker](https://img.shields.io/badge/Docker-Containerized-blue)![Node.js](https://img.shields.io/badge/Node.js-18-green)![Flask](https://img.shields.io/badge/Flask-2.3-black)![MySQL](https://img.shields.io/badge/MySQL-8.0-orange)![License](https://img.shields.io/badge/License-MIT-lightgrey)
