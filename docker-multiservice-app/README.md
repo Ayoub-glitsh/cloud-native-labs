@@ -140,25 +140,15 @@ flowchart TB
 
 ### 3️⃣ Access the applications
 
-Service
+## 🌐 Access the Applications
 
-URL
+| Service | Description | URL |
+|----------|-------------|------|
+| 🖥️ Apache + PHP | Main web interface | http://localhost |
+| 🗄️ phpMyAdmin | Database management | http://localhost:8080 |
+| ⚡ Express API | Node.js backend API | http://localhost:3000 |
+| 🐍 Flask App | Python backend service | http://localhost:5000 |
 
-Apache + PHP
-
-[http://localhost](http://localhost/)
-
-phpMyAdmin
-
-[http://localhost:8080](http://localhost:8080/)
-
-Express API
-
-[http://localhost:3000](http://localhost:3000/)
-
-Flask App
-
-[http://localhost:5000](http://localhost:5000/)
 
 * * *
 
