@@ -25,19 +25,12 @@ This project showcases:
 The application runs multiple services inside isolated containers:
 
 *   🟢 Node.js (HTTP server)
-    
 *   🟢 Express.js API
-    
 *   🟢 Python Flask application
-    
 *   🟢 MySQL 8 database
-    
-*   🟢 Apache + PHP
-    
+*   🟢 Apache + PHP 
 *   🟢 phpMyAdmin interface
-    
 *   🟢 Docker bridge network
-    
 *   🟢 Persistent storage (Docker volume)
     
 
@@ -46,30 +39,35 @@ The application runs multiple services inside isolated containers:
 🧠 Architecture Diagram (Mermaid)
 ---------------------------------
 
-Copie ceci dans ton README (GitHub supporte Mermaid automatiquement).
 
-flowchart LR
+```mermaid
+flowchart TB
+    Client[User Browser]
 
-Client[User Browser] --> Apache[Apache + PHP]
-    Client --> Express[Node.js Express]
-    Client --> Flask[Python Flask]
+    subgraph Application Layer
+        Apache[Apache + PHP]
+        Express[Node.js Express API]
+        Flask[Python Flask App]
+    end
 
-Apache --> MySQL[(MySQL Database)]
+    subgraph Database Layer
+        MySQL[(MySQL 8 Database)]
+    end
+
+    subgraph Admin Layer
+        phpMyAdmin[phpMyAdmin]
+    end
+
+    Client --> Apache
+    Client --> Express
+    Client --> Flask
+
+    Apache --> MySQL
     Express --> MySQL
     Flask --> MySQL
 
     phpMyAdmin --> MySQL
-
-subgraph Docker Network
-        Apache
-        Express
-        Flask
-        MySQL
-        phpMyAdmin
-end
-
-style Client fill:#f5f5f5,stroke:#333
-style MySQL fill:#e8f5e8,stroke:#2e7d32
+```
 
 * * *
 
