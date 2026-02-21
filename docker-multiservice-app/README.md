@@ -2,6 +2,7 @@
 
 🐳 Docker Multi-Service Web Stack
 =================================
+![Docker](https://img.shields.io/badge/Docker-Containerized-blue)![Node.js](https://img.shields.io/badge/Node.js-18-green)![Flask](https://img.shields.io/badge/Flask-2.3-black)![MySQL](https://img.shields.io/badge/MySQL-8.0-orange)![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 📌 Overview
 -----------
@@ -11,16 +12,11 @@
 This project showcases:
 
 *   Containerization of multiple applications
-    
 *   Service orchestration with Docker Compose
-    
 *   Persistent database volumes
-    
 *   Inter-container networking
-    
 *   Multi-language web stack integration
     
-
 * * *
 
 🏗 System Architecture
@@ -53,28 +49,27 @@ The application runs multiple services inside isolated containers:
 Copie ceci dans ton README (GitHub supporte Mermaid automatiquement).
 
 flowchart LR
-    
-        Client[User Browser] --> Apache[Apache + PHP]
-        Client --> Express[Node.js Express]
-        Client --> Flask[Python Flask]
-    
-        Apache --> MySQL[(MySQL Database)]
-        Express --> MySQL
-        Flask --> MySQL
-    
-        phpMyAdmin --> MySQL
-    
-        subgraph Docker Network
-            Apache
-            Express
-            Flask
-            MySQL
-            phpMyAdmin
-        end
-    
-        style Client fill:#f5f5f5,stroke:#333
-        style MySQL fill:#e8f5e8,stroke:#2e7d32
-    
+
+Client[User Browser] --> Apache[Apache + PHP]
+    Client --> Express[Node.js Express]
+    Client --> Flask[Python Flask]
+
+Apache --> MySQL[(MySQL Database)]
+    Express --> MySQL
+    Flask --> MySQL
+
+    phpMyAdmin --> MySQL
+
+subgraph Docker Network
+        Apache
+        Express
+        Flask
+        MySQL
+        phpMyAdmin
+end
+
+style Client fill:#f5f5f5,stroke:#333
+style MySQL fill:#e8f5e8,stroke:#2e7d32
 
 * * *
 
