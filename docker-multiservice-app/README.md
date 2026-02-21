@@ -14,6 +14,11 @@
 </div>
 
 
+<div align="center">
+  <img src="assets/mul_02.png" width="800" alt="Project Architecture"/>
+</div>
+
+
 
 
 
