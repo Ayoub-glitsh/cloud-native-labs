@@ -170,18 +170,12 @@ flowchart TB
 📦 DevOps Concepts Demonstrated
 -------------------------------
 
-*   Docker image building
-    
-*   Multi-container orchestration
-    
-*   Service dependency management
-    
-*   Volume persistence
-    
-*   Network isolation
-    
+*   Docker image building  
+*   Multi-container orchestration  
+*   Service dependency management  
+*   Volume persistence   
+*   Network isolation   
 *   Environment variables configuration
-    
 *   Database initialization scripts
     
 
@@ -283,13 +277,9 @@ flowchart TB
 This project demonstrates practical understanding of:
 
 *   Full-stack deployment
-    
 *   Container networking
-    
 *   Production-ready service orchestration
-    
 *   Backend integration across multiple technologies
-    
 *   Real-world DevOps workflow
     
 
@@ -300,32 +290,9 @@ This project demonstrates practical understanding of:
 
 **Ayoub Aguezar**  
 Full-Stack Developer | DevOps Enthusiast  
-Morocco 🇲🇦
-
+Morocco
 * * *
 
-* * *
-
-🔥 BONUS – Badges (pour rendre ton README encore plus pro)
-==========================================================
-
-Ajoute en haut :
-
-    ![Docker](https://img.shields.io/badge/Docker-Containerized-blue)
-    ![Node.js](https://img.shields.io/badge/Node.js-18-green)
-    ![Flask](https://img.shields.io/badge/Flask-2.3-black)
-    ![MySQL](https://img.shields.io/badge/MySQL-8.0-orange)
-    ![License](https://img.shields.io/badge/License-MIT-lightgrey)
-    
-
-* * *
-
-Si tu veux maintenant :
-
-*   💎 Une version encore plus “impression recruteur US”
-    
-*   🎯 Une version optimisée pour ATS / CV tech
-    
 *   📊 Un diagramme plus avancé style microservices
     
 *   🚀 Une section “Future Improvements” pour montrer vision ingénieur
