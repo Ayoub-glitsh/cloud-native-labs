@@ -1,7 +1,4 @@
-Parfait Ayoub 🔥  
-Voici une **version professionnelle pour ton GitHub portfolio** + un **diagramme d’architecture Mermaid propre et prêt à afficher sur GitHub**.
 
-* * *
 
 🐳 Docker Multi-Service Web Stack
 =================================
@@ -55,7 +52,7 @@ The application runs multiple services inside isolated containers:
 
 Copie ceci dans ton README (GitHub supporte Mermaid automatiquement).
 
-    flowchart LR
+flowchart LR
     
         Client[User Browser] --> Apache[Apache + PHP]
         Client --> Express[Node.js Express]
